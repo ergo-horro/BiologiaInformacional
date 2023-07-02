@@ -1,4 +1,4 @@
-#BIOLOGÍA INFORMACIONAL
+# BIOLOGÍA INFORMACIONAL
 Dentro del formalismo científico actual en el estudio de la vida se ha explorado la termodinámica e informática de los procesos que lo describen como un sistema complejo. Sin embargo, no resulta claro cómo la entropía y complejidad engranan y repercuten, y hasta qué punto resultan determinantes en los sistemas biológicos. Consideramos que parte esencial para comprender los mecanismos básicos de la vida se encuentra en la biología de códigos. La información entonces debe ser considerada no sólo un elemento fundamental en la física, sino medular en la emergencia de los procesos biológicos. 
-##Meta 
-Proponer una aproximación inicialmente teórica que ayude a explicar los elementos necesarios y cómo se articulan en la emergencia de los códigos biológicos -elementos fundamentales para el estudio de los sistemas vivos.
+## Meta
+Proponer una aproximación inicialmente teórica que ayude a explicar los elementos necesarios y cómo se articulan en la emergencia de los códigos biológicos -elementos fundamentales para el estudio de los sistemas vivos-.
